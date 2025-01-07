@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 <h3 align="center">Turning concepts into functional web solutions with the MERN stack.</h3>
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarfaruk99&label=Profile%20views&color=0e75b6&style=flat" alt="omarfaruk99" /> </p>
 
