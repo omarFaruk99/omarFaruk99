@@ -6,6 +6,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk99" alt="omarfaruk99" /></a> </p>
 
+###
+
+<p align="left">🌟 Full Stack Web Developer | 🌐 Building modern web experiences  <br>🎯 Passionate about creating efficient and elegant solutions!</p>
+
+###
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">- 💻 I specialize in building interactive web applications using **React**, **Node.js**, **Express.js.,**MongoDB**and **Firebase**.  <br>- 🛠️ Skilled in backend development with **Express.js** and **MongoDB**.  <br>- 🌱 Currently exploring advanced state management and optimizing user experiences.  <br>- 🏏 In my free time, I love playing cricket and helping others solve problems!</p>
+
+###
+
 - 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-d455f.web.app/](https://portfolio-d455f.web.app/)
@@ -65,8 +81,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
 
+###
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarfaruk99&show_icons=true&locale=en&layout=compact" alt="omarfaruk99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarfaruk99&show_icons=true&locale=en" alt="omarfaruk99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaruk99&" alt="omarfaruk99" /></p>
+
+
