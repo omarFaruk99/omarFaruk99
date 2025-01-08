@@ -6,9 +6,15 @@
 
 <h3 align="center">Turning concepts into functional web solutions with the MERN stack.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarfaruk99&label=Profile%20views&color=0e75b6&style=flat" alt="omarfaruk99" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=omarfaruk99&label=Profile%20views&color=0e75b6&style=flat" alt="omarfaruk99" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk99" alt="omarfaruk99" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=omarfaruk99" alt="omarfaruk99" />
+  </a> 
+</p>
 
 ### About Me
 
@@ -78,5 +84,14 @@
 
 ### GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarfaruk99&show_icons=true&locale=en&layout=compact" alt="omarfaruk99" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaruk99&" alt="omarfaruk99" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk99&langs_count=10&theme=transparent&layout=compact" alt="omarfaruk99's top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarfaruk99&theme=transparent" alt="omarfaruk99's profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarfaruk99&theme=react-dark&hide_border=true" alt="omarfaruk99's activity graph" />
+</p>
