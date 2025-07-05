@@ -92,9 +92,9 @@
   <summary><b>📂 Featured Projects</b></summary>
 
 - [Portfolio Website](https://portfolio-d455f.web.app/) – My personal portfolio built with React, Tailwind CSS, and more.
-- [E-commerce MERN App](#) – Full-featured e-commerce site with authentication, cart, and payment.
-- [Next.js Blog Platform](#) – Modern blog using Next.js, TypeScript, and MongoDB.
-- [Real-time Chat App](#) – Chat platform using Socket.io, Node.js, Express, and MongoDB.
+- [Techhive](https://techhive-94903.web.app/) – A modern tech product review and management platform.
+- [Antiquify](https://antiquify-68162.web.app/) – Antiquify is a full-stack web application for exploring and managing historical artifacts.
+- [GadgetSwap](https://agadgetswap.netlify.app/) – Rental Marketplace for Gadgets
 - ...and more! Check my pinned repositories for more cool stuff.
 </details>
 
