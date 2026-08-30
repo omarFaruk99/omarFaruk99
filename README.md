@@ -114,7 +114,11 @@ Git, published as a static site.
 </td></tr>
 <tr><td><b>Practice</b></td><td>
 
-Git · CI/CD · server hardening · technical SEO · Core Web Vitals
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-4B5563?style=flat-square&logo=githubactions&logoColor=white)
+![Server hardening](https://img.shields.io/badge/-Server%20hardening-4B5563?style=flat-square&logo=gnubash&logoColor=white)
+![Technical SEO](https://img.shields.io/badge/-Technical%20SEO-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![Core Web Vitals](https://img.shields.io/badge/-Core%20Web%20Vitals-4285F4?style=flat-square&logo=pagespeedinsights&logoColor=white)
 
 </td></tr>
 </table>
