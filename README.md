@@ -105,6 +105,13 @@ Git, published as a static site.
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td></tr>
+<tr><td><b>Docs &amp; content</b></td><td>
+
+![Nextra](https://img.shields.io/badge/-Nextra-111827?style=flat-square&logo=markdown&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/-Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white)
+![MDX](https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white)
+
+</td></tr>
 <tr><td><b>Practice</b></td><td>
 
 Git · CI/CD · server hardening · technical SEO · Core Web Vitals
