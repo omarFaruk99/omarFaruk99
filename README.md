@@ -1,107 +1,86 @@
-<a href="https://portfolio-d455f.web.app/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MasterHead" style="width:100%;border-radius:16px;" />
-</a>
+# Omar Faruk
 
-<h1 align="center">Hi 👋, I'm Omar Faruk</h1>
-<h3 align="center" style="font-weight:400;">Turning concepts into functional web solutions with the MERN stack & modern UI frameworks.</h3>
+**Web developer moving into DevOps. I run what I build.**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omarfaruk99&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-</p>
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=omarfaruk99">
-    <img src="https://github-profile-trophy.vercel.app/?username=omarfaruk99&theme=flat&no-frame=true&column=8&margin-w=15" alt="omarfaruk99 trophy" />
-  </a>
-</p>
+I write the application and then own the part most developers hand off — the server,
+the containers, the reverse proxy, the certificates, the deploy. Computer Science
+background, currently at Innovate Solution.
+
+Open to **remote DevOps / platform engineering** roles.
 
 ---
 
-### 🚀 About Me
+## What I run
 
-- 💻 I specialize in building interactive web applications using **React**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **TypeScript**, and **Firebase**.
-- 🛠️ Passionate about backend development, state management, and seamless user experiences.
-- 🎯 Always striving to learn and use the latest technologies.
-- 🏏 Off the screen: I love cricket and helping others.
+**[MailHub](https://github.com/omarFaruk99/mailhub)** — a self-hosted email marketing
+platform, live at [mailhub.omarsec.com](https://mailhub.omarsec.com)
 
-- 🌱 I’m currently learning **Node.js**, **TypeScript**, and **Next.js**
-- 👨‍💻 My work and projects: [Visit My Portfolio](https://portfolio-d455f.web.app/)
-- 💬 Ask me about **React, JavaScript, MongoDB, Python, Next.js, TypeScript**
-- 📫 Reach me at **2035faruk@gmail.com**
-- ⚡ Fun fact: I like to think of myself as funny, helpful, and always honest.
+Built it, deployed it, and I keep it running. It replaced sending campaigns by hand from
+WordPress, and now delivers 8,000–10,000 emails a month across multiple brands.
 
----
+- Three Docker Compose services — Next.js, Express, PostgreSQL — all bound to `127.0.0.1`,
+  reachable only through nginx with Let's Encrypt TLS
+- Amazon SES for delivery; bounces and complaints return over SNS to a signature-verified
+  webhook and suppress the address automatically
+- Auto-pause acts as an emergency brake when bounce or complaint rates climb, and only a
+  human can lift it
+- Exactly-once sending enforced in the schema, so a retry or a crash can never email
+  someone twice
+- Migrations run on container start; `git pull && docker compose up -d --build` is the
+  whole deploy
 
-### 🌐 Connect with me
+`TypeScript` · `Docker` · `PostgreSQL` · `Prisma` · `nginx` · `AWS SES` · `pg-boss`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/omarfaruk99/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="Twitter"/>
-  </a>
-  <a href="https://facebook.com/yourfacebookhandle" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="30" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/yourinstagramhandle" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram"/>
-  </a>
-</p>
+**[omarsec](https://github.com/omarFaruk99/omarsec)** — infrastructure and security notes,
+published at [omarsec.com](https://omarsec.com)
 
----
+103 pages written while learning the ground under the applications I ship.
 
-### 🛠️ Languages & Tools
+| Section | Pages |
+| --- | --- |
+| Linux fundamentals | 36 |
+| Docker | 18 |
+| Server deployment | 9 |
+| AWS SES | 7 |
+| Git and GitHub | 6 |
+| CI/CD | 4 |
+| Claude Code | 22 |
 
-<div align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,materialui,bootstrap" height="40" alt="Frontend stack" />
-  <!-- PrimeReact icon, resized and padded for consistency -->
-  <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primereact-logo.png?ssl=1" width="40" height="40" alt="PrimeReact" title="PrimeReact" style="background:white;border-radius:8px;padding:2px 6px;margin:0 5px;object-fit:contain;"/>
-  <!-- DaisyUI icon, official image and styled for consistency -->
-  <img src="https://img.daisyui.com/images/daisyui/wallpaper-black.png" width="40" height="40" alt="daisyUI" title="daisyUI" style="border-radius:8px;padding:2px 6px;margin:0 5px;object-fit:contain;"/>
-</div>
-<br />
-<div align="center">
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python,firebase" height="40" alt="Backend stack" />
-</div>
-<br />
-<div align="center">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,jupyter" height="40" alt="Tools & Platforms" />
-</div>
+`Next.js` · `Nextra` · `MDX`
 
 ---
 
-### 📊 GitHub Stats
+## What I work with
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarfaruk99&show_icons=true&theme=radical&hide_border=true" alt="omarfaruk99 stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk99&layout=compact&theme=radical&hide_border=true" alt="omarfaruk99's top languages" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarfaruk99&theme=radical" alt="profile details"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarfaruk99&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
+| | |
+| --- | --- |
+| **Infrastructure** | Docker, Docker Compose, nginx, Linux (Ubuntu), AWS EC2, AWS SES, Let's Encrypt, Cloudflare |
+| **Backend** | Node.js, Express, TypeScript, PostgreSQL, Prisma, MongoDB, REST APIs |
+| **Frontend** | React, Next.js, Astro, Tailwind CSS, TypeScript |
+| **Practice** | Git, GitHub Actions, technical SEO, Core Web Vitals |
 
 ---
 
-<details>
-  <summary><b>📂 Featured Projects</b></summary>
+## Where I came from
 
-- [Portfolio Website](https://portfolio-d455f.web.app/) – My personal portfolio built with React, Tailwind CSS, and more.
-- [Techhive](https://techhive-94903.web.app/) – A modern tech product review and management platform.
-- [Antiquify](https://antiquify-68162.web.app/) – Antiquify is a full-stack web application for exploring and managing historical artifacts.
-- [GadgetSwap](https://agadgetswap.netlify.app/) – Rental Marketplace for Gadgets
-- ...and more! Check my pinned repositories for more cool stuff.
-</details>
+Building web applications with React and Node, then technical SEO for a B2B travel API
+company — schema, crawlability, Core Web Vitals, and a WordPress-to-static migration.
+
+That turn is what pulled me toward infrastructure. Chasing page-load numbers means caring
+about how something is served, not only how it is written. Owning a deploy is the same
+question one layer down.
 
 ---
 
-<p align="center">
-  <b>“Code is like humor. When you have to explain it, it’s bad.”</b>
-  <br/>
-  <i>— Cory House</i>
-</p>
+## Currently
+
+- Migrating a WordPress blog to a static Astro build on Cloudflare Pages
+- Adding a Dockerfile and a GitHub Actions pipeline to MailHub
+- Writing up the Linux and Docker ground on omarsec.com as I go
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/omarfaruk99/) · [omarsec.com](https://omarsec.com) ·
+2035faruk@gmail.com
