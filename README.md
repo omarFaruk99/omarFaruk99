@@ -1,12 +1,10 @@
 # Omar Faruk
 
-**Web developer moving into DevOps. I run what I build.**
+**Software engineer. I build web applications and run them myself.**
 
 I write the application and then own the part most developers hand off — the server,
 the containers, the reverse proxy, the certificates, the deploy. Computer Science
 background, currently at Innovate Solution.
-
-Open to **remote DevOps / platform engineering** roles.
 
 ---
 
